@@ -32,7 +32,7 @@ global.wm = "Xeon Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = '.'
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
