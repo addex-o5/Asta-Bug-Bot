@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
+global.ownernomer = "2349023440982"
+global.ownername = "addex🥶❄️"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.location = "Nigeria, Lagos, Ikeja"
 
 global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownername = 'addex🥶❄️' //owner name
+global.botname = 'addex🥶❄️' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -41,7 +41,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
